@@ -21,6 +21,7 @@ func Login(c *fiber.Ctx) error {
 
 	token := data["token"]
 
+	// I would like to put other validation of the token here, but there would be a lot of edge cases so it's a little out of scope.
 	if len(token) != 4 {
 		c.Status(fiber.StatusBadRequest)
 		return c.JSON(fiber.Map{
