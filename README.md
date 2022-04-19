@@ -13,6 +13,7 @@ the necessary user into the database, which should have the following informatio
 * "email": "c137@onecause.com"
 * "password": "JDJhJDEyJDRXMGlFekFMR0huTi9zeDlBc2FDZGVHNWhpZnJIM3VPOVhuWFR5V01OTERoODBkMUU0b1Zx"
 * "user_name": "c137@onecause.com"
+
 Realistically though, the only actual important information is the email and password.
 
 ## Sources
