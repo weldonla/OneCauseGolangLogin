@@ -17,4 +17,4 @@ the necessary user into the database, which should have the following informatio
 Realistically though, the only actual important information is the email and password.
 
 ## Sources
-This Golang project is adapted from the [following project](https://codesource.io/how-to-setup-golang-authentication-with-jwt-token/).
+This Golang project is adapted from the [following walkthrough](https://codesource.io/how-to-setup-golang-authentication-with-jwt-token/).
